@@ -1,4 +1,4 @@
-image: jordengerovac/custport-app:0.0.1-SNAPSHOT
+image: entandodemo/customerportal:0.0.2-SNAPSHOT
 dbms: postgresql
 healthCheckPath: "/management/health"
 roles:
