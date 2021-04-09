@@ -2,8 +2,8 @@
 <script src="<@wp.resourceURL />customerportal-bundle/static/js/2.cb47bf20.chunk.js"></script>
 <script src="<@wp.resourceURL />customerportal-bundle/static/js/2.cb47bf20.chunk.js.LICENSE.txt"></script>
 <script src="<@wp.resourceURL />customerportal-bundle/static/js/2.cb47bf20.chunk.js.map"></script>
-<script src="<@wp.resourceURL />customerportal-bundle/static/js/main.63a2f19a.chunk.js"></script>
-<script src="<@wp.resourceURL />customerportal-bundle/static/js/main.63a2f19a.chunk.js.map"></script>
+<script src="<@wp.resourceURL />customerportal-bundle/static/js/main.782f8b8f.chunk.js"></script>
+<script src="<@wp.resourceURL />customerportal-bundle/static/js/main.782f8b8f.chunk.js.map"></script>
 <script src="<@wp.resourceURL />customerportal-bundle/static/js/runtime-main.1c33988b.js"></script>
 <script src="<@wp.resourceURL />customerportal-bundle/static/js/runtime-main.1c33988b.js.map"></script>
 <link href="<@wp.resourceURL />customerportal-bundle/static/css/main.daaf5836.chunk.css" rel="stylesheet">
