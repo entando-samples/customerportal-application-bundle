@@ -3,4 +3,4 @@ titles:
   en: Manage Subscriptions Widget
   it: Manage Subscriptions Widget
 group: free
-customUiPath: manage-user-widget.ftl
+customUiPath: manage-subscriptions-widget.ftl
