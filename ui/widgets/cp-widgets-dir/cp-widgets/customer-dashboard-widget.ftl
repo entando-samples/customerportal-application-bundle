@@ -1,9 +1,9 @@
 <#assign wp=JspTaglibs["/aps-core"]>
-<script src="<@wp.resourceURL />customerportal-bundle/static/js/2.a0e3d655.chunk.js"></script>
-<script src="<@wp.resourceURL />customerportal-bundle/static/js/2.a0e3d655.chunk.js.LICENSE.txt"></script>
-<script src="<@wp.resourceURL />customerportal-bundle/static/js/2.a0e3d655.chunk.js.map"></script>
-<script src="<@wp.resourceURL />customerportal-bundle/static/js/main.5c3a90f6.chunk.js"></script>
-<script src="<@wp.resourceURL />customerportal-bundle/static/js/main.5c3a90f6.chunk.js.map"></script>
+<script src="<@wp.resourceURL />customerportal-bundle/static/js/2.1d5a4da6.chunk.js"></script>
+<script src="<@wp.resourceURL />customerportal-bundle/static/js/2.1d5a4da6.chunk.js.LICENSE.txt"></script>
+<script src="<@wp.resourceURL />customerportal-bundle/static/js/2.1d5a4da6.chunk.js.map"></script>
+<script src="<@wp.resourceURL />customerportal-bundle/static/js/main.76156481.chunk.js"></script>
+<script src="<@wp.resourceURL />customerportal-bundle/static/js/main.76156481.chunk.js.map"></script>
 <script src="<@wp.resourceURL />customerportal-bundle/static/js/runtime-main.1c33988b.js"></script>
 <script src="<@wp.resourceURL />customerportal-bundle/static/js/runtime-main.1c33988b.js.map"></script>
 <link href="<@wp.resourceURL />customerportal-bundle/static/css/main.4963b696.chunk.css" rel="stylesheet">
