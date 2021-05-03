@@ -177,6 +177,14 @@
 <script src="<@wp.resourceURL />customerportal-bundle/static/js/runtime-main.1c33988b.js.map"></script>
 <link href="<@wp.resourceURL />customerportal-bundle/static/css/main.4963b696.chunk.css" rel="stylesheet">
 <link href="<@wp.resourceURL />customerportal-bundle/static/css/main.4963b696.chunk.css.map" rel="stylesheet">
+<script src="<@wp.resourceURL />customerportal-bundle/static/js/2.1d5a4da6.chunk.js"></script>
+<script src="<@wp.resourceURL />customerportal-bundle/static/js/main.12dfb484.chunk.js"></script>
+<script src="<@wp.resourceURL />customerportal-bundle/static/js/runtime-main.1c33988b.js"></script>
+<link href="<@wp.resourceURL />customerportal-bundle/static/css/main.4963b696.chunk.css" rel="stylesheet">
+<script src="<@wp.resourceURL />customerportal-bundle/static/js/2.1d5a4da6.chunk.js"></script>
+<script src="<@wp.resourceURL />customerportal-bundle/static/js/main.12dfb484.chunk.js"></script>
+<script src="<@wp.resourceURL />customerportal-bundle/static/js/runtime-main.1c33988b.js"></script>
+<link href="<@wp.resourceURL />customerportal-bundle/static/css/main.4963b696.chunk.css" rel="stylesheet">
 <#-- entando_resource_injection_point -->
 <#-- Don't add anything above this line. The build scripts will automatically link the compiled JS and CSS for you and add them above this line so that the widget can be loaded-->
 
