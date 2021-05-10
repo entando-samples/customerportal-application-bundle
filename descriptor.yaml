@@ -3,7 +3,7 @@ description: This is the Customer Portal bundle
 
 components:
     plugins:
-    - plugins/customerportal-plugin.yaml
+      - plugins/customerportal-plugin.yaml
 
   widgets:
       - ui/widgets/cp-widgets-dir/cp-widgets/admin-add-customer-widget-descriptor.yaml
