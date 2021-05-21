@@ -1,6 +1,6 @@
 code: cp-login-widget
 titles:
-  en: CP Login Widget
-  it: CP Login Widget
+    en: CP Login Widget
+    it: CP Login Widget
 group: free
 customUiPath: login-widget.ftl
